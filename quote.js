@@ -3,7 +3,7 @@ let quote = document.querySelector('.quote');
 let person = document.querySelector('.person');
 
 
-const apiURL = 'http://api.quotable.io/random';
+const apiURL = 'https://api.quotable.io/random';
 
 try {
 
